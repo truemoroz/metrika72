@@ -1,14 +1,17 @@
 # metrika72
 
 ##install
+
 `npm ci`
 
 `npm run build`
 
 ##запуска без докера
+
 `npm run start`
 
 ##запуск в докере
+
 `docker-compose up`
 
 в обоих случаях сайт будет доступен по адресу http://localhost:3000/
